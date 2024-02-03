@@ -1,0 +1,28 @@
+[
+  {
+    "id": "directoryViews",
+    "title": "Directory And Files Management",
+    "childElements": [
+      {
+        "id": "overview",
+        "title": "Dashboard",
+        "isClickable": true,
+        "icon": "dashboard",
+        "routerLink": ""
+      },
+      {
+        "id": "search",
+        "title": "Search",
+        "isClickable": true,
+        "icon": "search",
+        "routerLink": "search"
+      }
+    ]
+  },
+  {
+    "id": "webApplications",
+    "title": "Web Application",
+    "icon": "apps",
+    "routerLink": "webApps/overview"
+  }
+]
